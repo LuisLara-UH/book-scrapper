@@ -1,0 +1,6 @@
+/Users/luisalejandrolararojas/RiderProjects/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/luisalejandrolararojas/RiderProjects/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/luisalejandrolararojas/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/Users/luisalejandrolararojas/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/luisalejandrolararojas/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/luisalejandrolararojas/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

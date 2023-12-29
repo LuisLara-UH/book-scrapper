@@ -1,0 +1,16 @@
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/BookScrapper.exe
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/BookScrapper.pdb
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/Newtonsoft.Json.dll
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/System.IO.dll
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/System.Net.Http.dll
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/System.Runtime.dll
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/bin/Debug/Newtonsoft.Json.xml
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/obj/Debug/BookScrapper.csproj.AssemblyReference.cache
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/obj/Debug/BookScrapper.csproj.CoreCompileInputs.cache
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/obj/Debug/BookScrapper.csproj.CopyComplete
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/obj/Debug/BookScrapper.exe
+/Users/luisalejandrolararojas/RiderProjects/Solution1/BookScrapper/obj/Debug/BookScrapper.pdb
